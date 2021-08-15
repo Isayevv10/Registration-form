@@ -1,0 +1,17 @@
+
+body{
+	background-color:#e5e5e5;
+}
+textarea{
+	resize:none;
+}
+a{
+    text-decoration: none;
+	color: #88bcec;
+}
+h1{
+	font-family: 'Playfair Display', serif !important;
+}
+.form-check{
+	margin-left:12px;
+}
